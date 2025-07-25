@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+scikit-learn
+flask
+python-dotenv
+Flask-Bootstrap 
+Flask-SCSS
